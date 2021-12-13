@@ -1,0 +1,29 @@
+.first{
+    font-size: 20px;
+    font-weight: 600;
+    color: #3E4A5B;
+}
+#bold{
+    font-size: 30px;
+    font-weight: 600;
+    color: #3E4A5B;
+}
+.btn1{
+    background-color: #3E4A5B;
+    color: #E3F7FF;
+    font-size: 20px;
+}
+.btn1:hover{
+    background-color: #FBB540;
+}
+.btn2{
+    background-color: green;
+}
+.btn2:hover{
+    background-color: #FBB540;
+}
+.formborder{
+background-color: #E3F7FF;
+border-style: dashed;
+border-color: #3E4A5B;
+}

@@ -1,0 +1,161 @@
+.navbar-custom {
+    background-color: #E3F7FF;
+}
+
+.nav {
+    background-color: #3E4A5B;
+}
+
+/* Modify brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text a {
+    color: #3E4A5B;
+    font-weight: 700;
+
+}
+.nav a {
+    color: white;
+    font-weight: 400;
+}
+
+.btn-outline {
+    background-color: #3E4A5B;
+    color: #fff;
+
+
+}
+
+.btn-outline:hover {
+    background-color: #FBB540;
+}
+
+.btn-outline1 {
+    background-color: #FBB540;
+    color: #3E4A5B;
+    font-weight: 600;
+    margin-top: 5px;
+    
+}
+
+footer{
+    background-color: #3E4A5B;
+}
+.btn-outline2 {
+    background-color: #FBB540;
+    border-style: dashed ;
+    border-radius: 5px;
+}
+
+ul.nav a:hover {
+    color: #FBB540 !important;
+}
+
+h3 {
+    color: #3E4A5B;
+}
+#yell{
+    color: #FBB540;
+    font-size: 24px; 
+    text-align: center;
+}
+#blue{
+    color: #3E4A5B;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.lbutton{ 
+    color: #3E4A5B;
+    background-color: #E3F7FF;
+    border-style: dashed;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    margin: 4px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.idea{
+    color: #FBB540;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+}
+.idea1{
+    color: #3E4A5B;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+}
+#para{
+    font-weight: 600;
+  text-align: center;
+  font-size: 25px;
+}
+#explorebtn{
+    background-color: #FBB540;
+    color: #3E4A5B;
+    font-weight: 700;
+}
+.card-title{
+    text-align: center;
+    color: #3E4A5B;
+}
+.card-text{
+    text-align: center;
+    color: #FBB540;
+    font-weight: 600;
+    font-size: 18px;
+}
+#order{
+    background-color: #3E4A5B;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: #E3F7FF;
+}
+#con2{
+    border-style: dashed;
+    color: #3E4A5B;
+}
+#con3{
+    background-color: #3E4A5B;
+    color: #3E4A5B;
+ 
+}
+#head{
+    font-size: 30px;
+    color: #E3F7FF;
+}
+#end{
+    color: #E3F7FF;
+}
+#last{
+margin-block-end: 2px;
+}
+#choice{
+    font-weight: 600;
+    font-size: 18px;
+    color: #3E4A5B;
+}
+header {
+    height: 500px;
+    color: #E3F7FF;
+    text-align: center;
+    overflow: hidden;
+    background: #C33764;  /* fallback colour. Make sure this is just one solid colour. */
+    background: -webkit-linear-gradient(rgba(176, 192, 36, 0.8), rgba(84, 136, 143, 0.8)), url("/assets/lab4.jpg");
+    background: linear-gradient(rgba(202, 138, 42, 0.8), rgba(84, 136, 143, 0.8)), url("/assets/lab4.jpg"); /* The least supported option. */
+}
+
+img {
+   object-fit: cover;
+}
+

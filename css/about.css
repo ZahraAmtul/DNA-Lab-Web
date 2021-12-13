@@ -1,0 +1,88 @@
+.navbar-custom {
+    background-color: #E3F7FF;
+}
+
+.nav {
+    background-color: #3E4A5B;
+}
+
+/* Modify brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text a {
+    color: #3E4A5B;
+    font-weight: 700;
+
+}
+#yell{
+    color: #FBB540;
+    font-size: 24px; 
+    text-align: center;
+}
+#blue{
+    color: #3E4A5B;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+#bold{
+    color: #3E4A5B;
+    font-size: 35px;
+}
+#para{
+    font-weight: 600;
+  text-align: center;
+  font-size: 20px;
+}
+.nav a {
+    color: white;
+    font-weight: 400;
+}
+
+.btn-outline {
+    background-color: #3E4A5B;
+    color: #fff;
+
+
+}
+
+.btn-outline:hover {
+    background-color: #FBB540;
+}
+.btn-outline1 {
+    background-color: #FBB540;
+    color: #3E4A5B;
+    font-weight: 600;
+    margin-top: 5px;
+    
+}
+ul.nav a:hover {
+    color: #FBB540 !important;
+}
+.btn-outline2 {
+    background-color: #FBB540;
+    border-style: dashed ;
+    border-radius: 5px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.end{
+    display: block;
+    margin-left: auto;
+   
+}
+#head{
+    font-size: 30px;
+    color: #E3F7FF;
+}
+#end{
+    color: #E3F7FF;
+}
+#last{
+margin-block-end: 2px;
+}
+footer{
+    background-color: #3E4A5B;
+}

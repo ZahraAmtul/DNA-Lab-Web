@@ -1,0 +1,30 @@
+
+.big{
+    color: #3E4A5B;
+}
+.btn2{
+    background-color: #3E4A5B;
+    color: #E3F7FF;
+   text-align: left;
+}
+.btn2:hover{
+    background-color: #FBB540;
+}
+.btn1{
+    background-color: green;
+color: white;
+   text-align: left;
+}
+.btn1:hover{
+    background-color: #FBB540;
+}
+.highlight{
+    color: #FBB540;
+    font-weight: 600;
+    font-size: 18px;
+}
+.quantity{
+background-color: #E3F7FF;
+border-style: dashed;
+border-color: #3E4A5B;
+}
